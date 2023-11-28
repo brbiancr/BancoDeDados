@@ -2,6 +2,6 @@
 
 - Criação de bancos, tabelas.
 - Foreign key.
-- Inserir dados em tabelas atravez de isert e apartir de arquivos .txt
+- Inserir dados em tabelas atravez de insert e apartir de arquivos .txt
 - Querys
 - Triggers
